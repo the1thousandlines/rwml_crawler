@@ -1,0 +1,6 @@
+int16 joint
+int16 direction
+---
+float32 final
+---
+float32 current
